@@ -1,0 +1,3 @@
+https://github.com/HuskyLens/HUSKYLENSArduino/tree/master/HUSKYLENS
+Huskylens를 사용하는데 있어서 필요한 필수 헤더파일은 GitHub에서 다운받아 사용하였습니다.
+필수로 필요한 부분만 뽑아서 보냅니다.
